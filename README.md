@@ -1,2 +1,3 @@
 # hello-world
-Hello, world. This is description with lot of inspiration.
+Hello, world. This is description with A lot of inspiration.
+Descriptions make life more fun.
